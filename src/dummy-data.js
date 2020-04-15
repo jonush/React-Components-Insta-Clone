@@ -44,6 +44,31 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+        username: "otter",
+        thumbnailUrl: 'https://cdn2.iconfinder.com/data/icons/animals-nature-2/50/1F9A6-otter-512.png',
+        imageUrl: 'https://www.otterspecialistgroup.org/osg-newsite/wp-content/uploads/2017/04/ThinkstockPhotos-827261360.jpg',
+        likes: 71339,
+        timestamp: "April 15th 2020, 07:12:09 pm",
+        comments: [
+            {
+                username: "gogo1",
+                text: "Awesome pic!"
+            },
+            {
+                username: "friedeggs",
+                text: "stylin"
+            },
+            {
+                username: "bossman",
+                text: "What a g"
+            },
+            {
+                username: "1232ok",
+                text: "it b like that sometimes"
+            }
+        ]
     }
 ];
 
